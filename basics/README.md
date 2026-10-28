@@ -18,5 +18,7 @@ This directory contains the first basic scripts for the shell project:
 
 -`7-movethatfile`: A script that moves the file betty from directory /tmp/ to directory /tmp/`my_first_directory`.
 
--`8-firsdelete`: A script that deletes the file betty in /tmp/`my_first_directory.
+-`8-firsdelete`: A script that deletes the file betty in /tmp/`my_first_directory`.
+
+-`9-firstdirdeletion`: A script that deletes the directory `my_first_directory` located in the /tmp/ directory.
 
