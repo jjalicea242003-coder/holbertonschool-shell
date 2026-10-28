@@ -12,3 +12,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`4-listmorefiles`: A script that display the current content, including hidden files.
 
+-`5-listfilesdigitonly`: A script that display the user's and group IDs numerically.
+
