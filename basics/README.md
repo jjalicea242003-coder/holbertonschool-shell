@@ -26,3 +26,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`11-lists`: A script that lists all files (including hidden ones) in the current directory, the parent of the working directory, and the /boot directory in long format.
 
+-`12-file_type`: A script that prints the type of the file named imaafile located in the /tmp directory.
+
