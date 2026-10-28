@@ -24,3 +24,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`10-back`: A script that changes the working directory to tje previous one.
 
+-`11-lists`: A script that lists all files (including hidden ones) in the current directory, the parent of the working directory, and the /boot directory in long format.
+
