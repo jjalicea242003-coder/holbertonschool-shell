@@ -10,3 +10,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`3-listfiles`: A script that display the current directory content in a long format.
 
+-`4-listmorefiles`: A script that display the current content, including hidden files.
+
