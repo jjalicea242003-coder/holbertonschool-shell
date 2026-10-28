@@ -7,3 +7,6 @@ This directory contains the first basic scripts for the shell project:
 -`1-listit`: A script that displays the list of contents of the current directory.
 
 -`2-bring_me_home`: A script that changes the working directory to the user's home directory.
+
+-`3-listfiles`: A script that display the current directory content in a long format.
+
