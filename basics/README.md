@@ -22,3 +22,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`9-firstdirdeletion`: A script that deletes the directory `my_first_directory` located in the /tmp/ directory.
 
+-`10-back`: A script that changes the working directory to tje previous one.
+
