@@ -28,3 +28,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`12-file_type`: A script that prints the type of the file named imaafile located in the /tmp directory.
 
+-`13-symbolic_link`: A script that creates a symbolic link named __ls__ to /bin/ls in the current working directory.
+
