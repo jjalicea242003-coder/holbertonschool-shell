@@ -24,3 +24,5 @@
 
 -`12-directory permissions`: A script that creates a directory called `my_dir` with permissions 751 in the working directory.
 
+-`13-change_group`: A cript that changes the group owner of the fie hello to school.
+
