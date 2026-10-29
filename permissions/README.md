@@ -10,3 +10,5 @@
 
 -`5-execute`: A script that adds execute permissions to the owner of the file hello.
 
+-`6-multiple_permissions`: A script that adds execute permissions yo the owner and the gruop owner, and read permissions to other users, to the file hello.
+
