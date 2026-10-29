@@ -30,3 +30,5 @@ This directory contains the first basic scripts for the shell project:
 
 -`13-symbolic_link`: A script that creates a symbolic link named __ls__ to /bin/ls in the current working directory.
 
+-`14-copy_html`: A script that copies all HTML files from the current working directory to the parent directory, only if they do not exists or are newer than the versions in the parent directory.
+
