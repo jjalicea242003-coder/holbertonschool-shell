@@ -8,3 +8,5 @@
 
 -`4-emprt`: A script that creates an empty file called hello.
 
+-`5-execute`: A script that adds execute permissions to the owner of the file hello.
+
