@@ -14,3 +14,5 @@
 
 -`7-everybody`: A script that adds execution permissions to the owner, the group owner and the other users, to the file hello.
 
+-`8-James_Bond`: A script that sets no permissions for the owner and the group, and all permissions for other users, on the file hello.
+
