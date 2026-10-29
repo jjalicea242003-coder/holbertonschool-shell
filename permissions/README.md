@@ -18,3 +18,5 @@
 
 -`9-Jhon_Doe`: A script that sets the mode  of the file hello to rwxr-x-wx (r=read, w=write, x=execute).
 
+-`10-mirror_permissions`: A script that sets the mode of the file hello the same as olleh's mode.
+
