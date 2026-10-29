@@ -16,3 +16,5 @@
 
 -`8-James_Bond`: A script that sets no permissions for the owner and the group, and all permissions for other users, on the file hello.
 
+-`9-Jhon_Doe`: A script that sets the mode  of the file hello to rwxr-x-wx (r=read, w=write, x=execute).
+
