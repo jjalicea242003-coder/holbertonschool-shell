@@ -26,3 +26,5 @@
 
 -`13-change_group`: A cript that changes the group owner of the fie hello to school.
 
+-`14-change_owner_and_group`: A script that changes the owner to vincent and the group owner to staff for all the files and directories in the                                 working directory.
+
