@@ -12,3 +12,5 @@
 
 -`6-multiple_permissions`: A script that adds execute permissions yo the owner and the gruop owner, and read permissions to other users, to the file hello.
 
+-`7-everybody`: A script that adds execution permissions to the owner, the group owner and the other users, to the file hello.
+
