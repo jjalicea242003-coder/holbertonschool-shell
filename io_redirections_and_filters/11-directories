@@ -1,1 +1,2 @@
-testing
+#!/bin/bash
+find . -type d | tail -n +2 | wc -l
