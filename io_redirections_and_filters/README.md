@@ -14,3 +14,6 @@
 
 -`7-file`: A script that creates a file containig the text "Best School".
 
+-`8-cwd_state`: A script that writes the result of ls -la into `ls_cwd_state`.
+
+
