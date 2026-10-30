@@ -16,4 +16,5 @@
 
 -`8-cwd_state`: A script that writes the result of ls -la into `ls_cwd_state`.
 
+-`9-duplicate_last_line`: A script that duplicate the last line of the file iacta.
 
